@@ -1,4 +1,4 @@
-[![kcemenike](https://circleci.com/gh/kcemenike/app-autodeploy.svg?style=svg)](https://app.circleci.com/pipelines/github/kcemenike/app-autodeploy)
+
 
 ## A complete CI/CD project
 
@@ -65,6 +65,4 @@ Blue-green deployment happens after all tests are complete
 - [Gmail](https://gmail.com) - Monitoring notifications
 - [Slack](https://api.slack.com) - build notifications
 
-### License
 
-[License](LICENSE.md)
